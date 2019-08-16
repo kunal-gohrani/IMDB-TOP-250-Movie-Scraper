@@ -1,5 +1,5 @@
 # IMDB-TOP-250-Movie-Scraper
-This notebook scrapes IMDB.com's TOP 250 movies list
+<p>This notebook scrapes IMDB.com's TOP 250 movies list</p>
 <b>Dependencies:</b>
 <ul>
 <li>BeautifulSoup</li>
